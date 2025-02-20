@@ -34,9 +34,3 @@ Reproducible Installation Instructions
 - Run `flask run` to start the flask backend
 - In another terminal, run `npm run dev` in the main project folder
 - Open http://localhost:3000/ (Might take a few minutes to load at first)
-
-Group Members and Roles
-- Faizi Tofighi (faizimt2) - Backend, Frontend
-- Charles Cooper (ccoop4) - Backend
-- Abhay Benoy (abhayb2) - Frontend
-- Eric Zhu (ericz5) - Backend
